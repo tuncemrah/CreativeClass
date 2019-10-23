@@ -1,0 +1,106 @@
+C:\Users\Emrah Tunç\Desktop\kitap örnekler\CreativeClassTools\CreativeClassTools\bin\CreativeClassTools.dll.config
+C:\Users\Emrah Tunç\Desktop\kitap örnekler\CreativeClassTools\CreativeClassTools\bin\CreativeClassTools.dll
+C:\Users\Emrah Tunç\Desktop\kitap örnekler\CreativeClassTools\CreativeClassTools\bin\CreativeClassTools.pdb
+C:\Users\Emrah Tunç\Desktop\kitap örnekler\CreativeClassTools\CreativeClassTools\bin\roslyn\csc.exe
+C:\Users\Emrah Tunç\Desktop\kitap örnekler\CreativeClassTools\CreativeClassTools\bin\roslyn\csc.exe.config
+C:\Users\Emrah Tunç\Desktop\kitap örnekler\CreativeClassTools\CreativeClassTools\bin\roslyn\csc.rsp
+C:\Users\Emrah Tunç\Desktop\kitap örnekler\CreativeClassTools\CreativeClassTools\bin\roslyn\csi.exe
+C:\Users\Emrah Tunç\Desktop\kitap örnekler\CreativeClassTools\CreativeClassTools\bin\roslyn\csi.exe.config
+C:\Users\Emrah Tunç\Desktop\kitap örnekler\CreativeClassTools\CreativeClassTools\bin\roslyn\csi.rsp
+C:\Users\Emrah Tunç\Desktop\kitap örnekler\CreativeClassTools\CreativeClassTools\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Emrah Tunç\Desktop\kitap örnekler\CreativeClassTools\CreativeClassTools\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Emrah Tunç\Desktop\kitap örnekler\CreativeClassTools\CreativeClassTools\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Emrah Tunç\Desktop\kitap örnekler\CreativeClassTools\CreativeClassTools\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Emrah Tunç\Desktop\kitap örnekler\CreativeClassTools\CreativeClassTools\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Emrah Tunç\Desktop\kitap örnekler\CreativeClassTools\CreativeClassTools\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Emrah Tunç\Desktop\kitap örnekler\CreativeClassTools\CreativeClassTools\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Emrah Tunç\Desktop\kitap örnekler\CreativeClassTools\CreativeClassTools\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Emrah Tunç\Desktop\kitap örnekler\CreativeClassTools\CreativeClassTools\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Emrah Tunç\Desktop\kitap örnekler\CreativeClassTools\CreativeClassTools\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Emrah Tunç\Desktop\kitap örnekler\CreativeClassTools\CreativeClassTools\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Emrah Tunç\Desktop\kitap örnekler\CreativeClassTools\CreativeClassTools\bin\roslyn\System.AppContext.dll
+C:\Users\Emrah Tunç\Desktop\kitap örnekler\CreativeClassTools\CreativeClassTools\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Emrah Tunç\Desktop\kitap örnekler\CreativeClassTools\CreativeClassTools\bin\roslyn\System.Console.dll
+C:\Users\Emrah Tunç\Desktop\kitap örnekler\CreativeClassTools\CreativeClassTools\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Emrah Tunç\Desktop\kitap örnekler\CreativeClassTools\CreativeClassTools\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Emrah Tunç\Desktop\kitap örnekler\CreativeClassTools\CreativeClassTools\bin\roslyn\System.IO.Compression.dll
+C:\Users\Emrah Tunç\Desktop\kitap örnekler\CreativeClassTools\CreativeClassTools\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Emrah Tunç\Desktop\kitap örnekler\CreativeClassTools\CreativeClassTools\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Emrah Tunç\Desktop\kitap örnekler\CreativeClassTools\CreativeClassTools\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Emrah Tunç\Desktop\kitap örnekler\CreativeClassTools\CreativeClassTools\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Emrah Tunç\Desktop\kitap örnekler\CreativeClassTools\CreativeClassTools\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Emrah Tunç\Desktop\kitap örnekler\CreativeClassTools\CreativeClassTools\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Emrah Tunç\Desktop\kitap örnekler\CreativeClassTools\CreativeClassTools\bin\roslyn\System.Security.Claims.dll
+C:\Users\Emrah Tunç\Desktop\kitap örnekler\CreativeClassTools\CreativeClassTools\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Emrah Tunç\Desktop\kitap örnekler\CreativeClassTools\CreativeClassTools\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Emrah Tunç\Desktop\kitap örnekler\CreativeClassTools\CreativeClassTools\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Emrah Tunç\Desktop\kitap örnekler\CreativeClassTools\CreativeClassTools\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Emrah Tunç\Desktop\kitap örnekler\CreativeClassTools\CreativeClassTools\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Emrah Tunç\Desktop\kitap örnekler\CreativeClassTools\CreativeClassTools\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Emrah Tunç\Desktop\kitap örnekler\CreativeClassTools\CreativeClassTools\bin\roslyn\System.ValueTuple.dll
+C:\Users\Emrah Tunç\Desktop\kitap örnekler\CreativeClassTools\CreativeClassTools\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Emrah Tunç\Desktop\kitap örnekler\CreativeClassTools\CreativeClassTools\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Emrah Tunç\Desktop\kitap örnekler\CreativeClassTools\CreativeClassTools\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Emrah Tunç\Desktop\kitap örnekler\CreativeClassTools\CreativeClassTools\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Emrah Tunç\Desktop\kitap örnekler\CreativeClassTools\CreativeClassTools\bin\roslyn\vbc.exe
+C:\Users\Emrah Tunç\Desktop\kitap örnekler\CreativeClassTools\CreativeClassTools\bin\roslyn\vbc.exe.config
+C:\Users\Emrah Tunç\Desktop\kitap örnekler\CreativeClassTools\CreativeClassTools\bin\roslyn\vbc.rsp
+C:\Users\Emrah Tunç\Desktop\kitap örnekler\CreativeClassTools\CreativeClassTools\bin\roslyn\VBCSCompiler.exe
+C:\Users\Emrah Tunç\Desktop\kitap örnekler\CreativeClassTools\CreativeClassTools\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Emrah Tunç\Desktop\kitap örnekler\CreativeClassTools\CreativeClassTools\obj\Debug\CreativeClassTools.csprojAssemblyReference.cache
+C:\Users\Emrah Tunç\Desktop\kitap örnekler\CreativeClassTools\CreativeClassTools\obj\Debug\CreativeClassTools.csproj.CoreCompileInputs.cache
+C:\Users\Emrah Tunç\Desktop\kitap örnekler\CreativeClassTools\CreativeClassTools\obj\Debug\CreativeClassTools.dll
+C:\Users\Emrah Tunç\Desktop\kitap örnekler\CreativeClassTools\CreativeClassTools\obj\Debug\CreativeClassTools.pdb
+C:\Users\Emrah Tunç\Desktop\CreativeClassTools\CreativeClassTools\bin\CreativeClassTools.dll.config
+C:\Users\Emrah Tunç\Desktop\CreativeClassTools\CreativeClassTools\bin\CreativeClassTools.dll
+C:\Users\Emrah Tunç\Desktop\CreativeClassTools\CreativeClassTools\bin\CreativeClassTools.pdb
+C:\Users\Emrah Tunç\Desktop\CreativeClassTools\CreativeClassTools\bin\roslyn\csc.exe
+C:\Users\Emrah Tunç\Desktop\CreativeClassTools\CreativeClassTools\bin\roslyn\csc.exe.config
+C:\Users\Emrah Tunç\Desktop\CreativeClassTools\CreativeClassTools\bin\roslyn\csc.rsp
+C:\Users\Emrah Tunç\Desktop\CreativeClassTools\CreativeClassTools\bin\roslyn\csi.exe
+C:\Users\Emrah Tunç\Desktop\CreativeClassTools\CreativeClassTools\bin\roslyn\csi.exe.config
+C:\Users\Emrah Tunç\Desktop\CreativeClassTools\CreativeClassTools\bin\roslyn\csi.rsp
+C:\Users\Emrah Tunç\Desktop\CreativeClassTools\CreativeClassTools\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Emrah Tunç\Desktop\CreativeClassTools\CreativeClassTools\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Emrah Tunç\Desktop\CreativeClassTools\CreativeClassTools\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Emrah Tunç\Desktop\CreativeClassTools\CreativeClassTools\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Emrah Tunç\Desktop\CreativeClassTools\CreativeClassTools\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Emrah Tunç\Desktop\CreativeClassTools\CreativeClassTools\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Emrah Tunç\Desktop\CreativeClassTools\CreativeClassTools\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Emrah Tunç\Desktop\CreativeClassTools\CreativeClassTools\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Emrah Tunç\Desktop\CreativeClassTools\CreativeClassTools\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Emrah Tunç\Desktop\CreativeClassTools\CreativeClassTools\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Emrah Tunç\Desktop\CreativeClassTools\CreativeClassTools\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Emrah Tunç\Desktop\CreativeClassTools\CreativeClassTools\bin\roslyn\System.AppContext.dll
+C:\Users\Emrah Tunç\Desktop\CreativeClassTools\CreativeClassTools\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Emrah Tunç\Desktop\CreativeClassTools\CreativeClassTools\bin\roslyn\System.Console.dll
+C:\Users\Emrah Tunç\Desktop\CreativeClassTools\CreativeClassTools\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Emrah Tunç\Desktop\CreativeClassTools\CreativeClassTools\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Emrah Tunç\Desktop\CreativeClassTools\CreativeClassTools\bin\roslyn\System.IO.Compression.dll
+C:\Users\Emrah Tunç\Desktop\CreativeClassTools\CreativeClassTools\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Emrah Tunç\Desktop\CreativeClassTools\CreativeClassTools\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Emrah Tunç\Desktop\CreativeClassTools\CreativeClassTools\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Emrah Tunç\Desktop\CreativeClassTools\CreativeClassTools\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Emrah Tunç\Desktop\CreativeClassTools\CreativeClassTools\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Emrah Tunç\Desktop\CreativeClassTools\CreativeClassTools\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Emrah Tunç\Desktop\CreativeClassTools\CreativeClassTools\bin\roslyn\System.Security.Claims.dll
+C:\Users\Emrah Tunç\Desktop\CreativeClassTools\CreativeClassTools\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Emrah Tunç\Desktop\CreativeClassTools\CreativeClassTools\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Emrah Tunç\Desktop\CreativeClassTools\CreativeClassTools\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Emrah Tunç\Desktop\CreativeClassTools\CreativeClassTools\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Emrah Tunç\Desktop\CreativeClassTools\CreativeClassTools\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Emrah Tunç\Desktop\CreativeClassTools\CreativeClassTools\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Emrah Tunç\Desktop\CreativeClassTools\CreativeClassTools\bin\roslyn\System.ValueTuple.dll
+C:\Users\Emrah Tunç\Desktop\CreativeClassTools\CreativeClassTools\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Emrah Tunç\Desktop\CreativeClassTools\CreativeClassTools\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Emrah Tunç\Desktop\CreativeClassTools\CreativeClassTools\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Emrah Tunç\Desktop\CreativeClassTools\CreativeClassTools\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Emrah Tunç\Desktop\CreativeClassTools\CreativeClassTools\bin\roslyn\vbc.exe
+C:\Users\Emrah Tunç\Desktop\CreativeClassTools\CreativeClassTools\bin\roslyn\vbc.exe.config
+C:\Users\Emrah Tunç\Desktop\CreativeClassTools\CreativeClassTools\bin\roslyn\vbc.rsp
+C:\Users\Emrah Tunç\Desktop\CreativeClassTools\CreativeClassTools\bin\roslyn\VBCSCompiler.exe
+C:\Users\Emrah Tunç\Desktop\CreativeClassTools\CreativeClassTools\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Emrah Tunç\Desktop\CreativeClassTools\CreativeClassTools\obj\Debug\CreativeClassTools.csprojAssemblyReference.cache
+C:\Users\Emrah Tunç\Desktop\CreativeClassTools\CreativeClassTools\obj\Debug\CreativeClassTools.csproj.CoreCompileInputs.cache
+C:\Users\Emrah Tunç\Desktop\CreativeClassTools\CreativeClassTools\obj\Debug\CreativeClassTools.dll
+C:\Users\Emrah Tunç\Desktop\CreativeClassTools\CreativeClassTools\obj\Debug\CreativeClassTools.pdb
