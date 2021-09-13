@@ -23,4 +23,4 @@ Dosyalarınız uygulamanın bulunduğu dizinde “Oluşturulan-dosyalar” klas�
  
 Eğer seçili tablonun .cs ve DbProcess dosyalarının yanı sıra asp.net(aspx, aspx.cs, aspx.designer.cs) dosyalarını da isterseniz “Web dosyalarını dahil et.” seçeneği işaretli iken dosyaları oluşturunuz.
  
-Bu projede emekleri  Geçen Arkadaşlarım Mustafa Doğan,Melih Can Akgüneş ve ben deniz Emrah Tunç umarım işinize yarar.
+
